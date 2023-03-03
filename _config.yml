@@ -28,6 +28,7 @@ github_username:  runawayprocess
 
 # Build settings
 remote_theme: patdryburgh/hitchens
+theme: hitchens
 plugins:
   - jekyll-feed
 

@@ -21,7 +21,7 @@
 title: runaway process
 email: zacharyhunterjones@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  notes on operations research, mathematics, history, and other sciences
+ /notes on data science, optimization, logistics, and acceleration
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  runawayprocess

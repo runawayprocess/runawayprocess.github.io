@@ -27,7 +27,8 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  runawayprocess
 
 # Build settings
-remote_theme: runawayprocess/theme
+remote_theme: broccolini/swiss
+theme_color: orange
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
